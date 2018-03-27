@@ -1,2 +1,2 @@
 var playlist = {artist: 'songTitle'}
-var updatePlaylist(playlist, artistName,songTitle){playlist [artist=songTitle]; return playlist}
+var updatePlaylist(playlist, artistName,songTitle){return Object.assign()
