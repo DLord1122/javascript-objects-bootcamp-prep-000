@@ -1,2 +1,2 @@
 var playlist = {artist: 'songTitle'}
-var updatePlaylist(playlist, artistName,songTitle){playlist artist=son
+var updatePlaylist(playlist, artistName,songTitle){playlist artist=song; return playlist}
